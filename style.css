@@ -1006,3 +1006,20 @@ button .fas{
     text-align: center;
     font-weight: bold;
 }
+.body{
+    display:grid;
+    grid-template-columns:1fr;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
