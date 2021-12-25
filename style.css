@@ -269,6 +269,7 @@ border-radius: 2px;
 .cards{
     justify-content: center;
     display: flex;
+    flex-wrap:wrap;
 }
 .card{
     margin: 10px;
@@ -433,6 +434,7 @@ text-decoration:#DD4053 ;
     padding-right: 100px;
 }
 .news{
+    
     width: 100%;
     background: #E5E5E5;
 
@@ -798,6 +800,7 @@ font-family: 'Open Sans', sans-serif;
 }
 .cardos{
     display: flex;
+    flex-wrap:wrap;
     justify-content: space-around;
     padding:0;
 }
