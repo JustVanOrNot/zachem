@@ -1030,7 +1030,11 @@ button .fas{
     flex-basis: 100%;
 
 }
-
+.newsewe{
+    display: flex;
+    flex-wrap: wrap;
+    flex-basis: 100%;
+}
 
 
 
