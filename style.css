@@ -1036,7 +1036,12 @@ button .fas{
     flex-basis: 100%;
 
 }
+.actual{
+    display: flex;
+    flex-wrap: wrap;
+    flex-basis: 100%;
 
+}
 
 
 
