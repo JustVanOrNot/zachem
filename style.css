@@ -2,6 +2,7 @@
     display: flex;  
     align-items: center;
     justify-content: space-around;
+    flex-basis: 100%;
     flex-wrap:wrap;
 }
 .top{
@@ -431,6 +432,8 @@ text-decoration:#DD4053 ;
     margin: 0;
     display: flex;
     justify-content: space-around;
+    flex-basis: 100%;
+    flex-wrap: wrap;
     padding-left: 100px;
     padding-right: 100px;
 }
@@ -995,6 +998,11 @@ color: rgba(62, 62, 62, 0.5);
 button .fas{
     margin: 0;
 }
+
+
+
+
+
 .done{
     display: flex;
 }
@@ -1016,10 +1024,18 @@ button .fas{
 
 
 }
+.zakaz{
+    display: flex;
+    flex-wrap: wrap;
+    flex-basis: 100%;
 
+}
+.newsewe{
+    display: flex;
+    flex-wrap: wrap;
+    flex-basis: 100%;
 
-
-
+}
 
 
 
