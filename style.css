@@ -431,6 +431,8 @@ text-decoration:#DD4053 ;
     margin: 0;
     display: flex;
     justify-content: space-around;
+    flex-basis: 100%;
+    flex-wrap: wrap;
     padding-left: 100px;
     padding-right: 100px;
 }
